@@ -9,6 +9,3 @@ output = locale.currency(konversi, grouping=True)
 print("..............................................................................")
 print("Jika uang suraji US$ 35, maka hasil konversi ke rupiahnya adalah ", output)
 print("..............................................................................")
-
-
-

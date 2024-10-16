@@ -15,7 +15,8 @@ elif 41 <= nilai_rata_rata <= 60:
     nilai = "D"
 elif 0 <= nilai_rata_rata <= 40:
     nilai = "E"
-
+else:
+    nilai = "tidak ada nilai"
 print("masukkan nama",nama)
 print("masukkan nim",nim)
 print("nilai rata rata anda",nilai_rata_rata)

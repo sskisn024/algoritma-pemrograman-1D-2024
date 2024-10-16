@@ -27,6 +27,6 @@ else:
     
     print("Detail Pembelian")
     print(f"Nama Pembeli: {nama_pembeli}")
-    print(f"Diskon yang Didapatkan: {total_diskon}%")
+    print(f"Diskon yang Didapatkan: {total_diskon}")
     print(f"Total Harga Sebelum Diskon: Rp{total_belanja}")
     print(f"Total Harga Setelah Diskon: Rp{total_keseluruhan}")
